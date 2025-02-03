@@ -36,7 +36,7 @@ Or will you remain trapped… forever?
 
 ### Controls
 
-- *Movement*: WASD / Arrow Keys
+- *Movement*: WASD
 - *Interact*: E
 - *Attack*: Spacebar
 
